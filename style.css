@@ -1,1 +1,10 @@
+*{
+    box-sizing: border-box;
+    font-family: Georgia, serif;
+}
 
+.poesia{
+    padding-left: 10px;
+    white-space: pre-line;
+    line-height: 1.5;
+}
