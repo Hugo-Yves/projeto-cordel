@@ -1,10 +1,71 @@
 * {
   box-sizing: border-box;
   font-family: Georgia, serif;
+  padding: 0;
+  margin: 0;
 }
 
 .poesia {
   padding-left: 10px;
   white-space: pre-line;
-  line-height: 1.5;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+.normal {
+  background-color: rgb(255, 255, 255);
+  color: black;
+}
+
+.imagem {
+  background-color: rgb(54, 53, 53);
+  color: white;
+}
+
+.imagem p {
+  width: 400px;
+  background-color: rgba(0, 0, 0, 0.598);
+}
+
+body {
+  min-height: 100vh;
+  background-color: darkgray;
+}
+
+a {
+  text-decoration: none;
+  padding-left: 5px;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+header h1 {
+  padding-top: 50px;
+  font-variant: small-caps;
+}
+
+header p {
+  padding-bottom: 50px;
+}
+
+section {
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+  padding-left: 25px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 13px;
 }
