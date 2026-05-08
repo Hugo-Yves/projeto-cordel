@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  font-family: Georgia, serif;
   padding: 0;
   margin: 0;
 }
@@ -18,7 +17,7 @@
   font-family: var(--fonte3);
   padding-left: 10px;
   white-space: pre-line;
-  line-height: 1.3;
+  line-height: 2.5;
   margin-bottom: 20px;
 }
 
