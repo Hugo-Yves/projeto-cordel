@@ -37,8 +37,8 @@
 .imagem p {
   display: inline-block;
   padding: 5px;
-  text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.551);
-  background-color: rgba(0, 0, 0, 0.549);
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.335);
+  background-color: rgba(0, 0, 0, 0.289);
 }
 
 #img001 {
